@@ -4,11 +4,6 @@
 
 This project analyzes **CO₂ emissions data** using the World Development Indicators (WDI) dataset. The objective is to explore CO₂ emission trends, understand patterns in the data, and generate meaningful insights through data analysis and visualization.
 
-## 📊 CO₂ Emissions Dashboard
-
-<img width="100%" alt="WDI CO₂ Data Analysis Dashboard" src="./co2-dashboard.png"/>
-
----
 
 ---
 
