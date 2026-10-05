@@ -108,7 +108,7 @@ The analysis can include visualizations such as:
 
 This visualization helps compare CO₂ emissions between different countries.
 
-![CO2 Emissions](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Carbon_Dioxide_Emissions_by_Region.svg/1280px-Carbon_Dioxide_Emissions_by_Region.svg.png)
+![CO2 Emissions]
 
 ---
 
@@ -116,7 +116,7 @@ This visualization helps compare CO₂ emissions between different countries.
 
 A time-series visualization can be used to understand how CO₂ emissions change over the years.
 
-![CO2 Trend](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Global_Carbon_Dioxide_Emissions.svg/1280px-Global_Carbon_Dioxide_Emissions.svg.png)
+![CO2 Trend]
 
 ---
 
@@ -124,7 +124,7 @@ A time-series visualization can be used to understand how CO₂ emissions change
 
 CO₂ emissions are an important indicator when studying environmental and climate-related trends.
 
-![Climate Change](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Global_temperature_anomaly_%28NASA%29.svg/1280px-Global_temperature_anomaly_%28NASA%29.svg.png)
+![Climate Change]
 
 ---
 
@@ -207,15 +207,7 @@ This project can be further improved by adding:
 * Interactive maps
 * Power BI / Tableau visualizations
 
----
 
-## 👩‍💻 Author
-
-**Khushi Yadav**
-
-GitHub: [@khushiyadav222](https://github.com/khushiyadav222)
-
----
 
 ## ⭐ Conclusion
 
