@@ -1,5 +1,8 @@
 # 🌍 WDI CO₂ Data Analysis
 
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/0644b632-b19a-47d2-97ea-4c00ab1d7000" />
+
+
 ---
 
 ## 📊 Data Visualization
