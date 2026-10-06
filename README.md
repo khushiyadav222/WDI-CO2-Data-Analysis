@@ -1,6 +1,7 @@
 # 🌍 WDI CO₂ Data Analysis
 
-<img scr="https://chatgpt.com/backend-api/estuary/content?id=file_00000000208c82119def8954d0111ac3&ts=497579&p=fs&cid=1&sig=be741706c1fec57079d4dfa233c2125fdfaa7602afd4a3124c0cad4e7bd8da71&v=0">
+[<img width="1536" height="1024" alt="Movie Dataset Analysis Dashboard" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000208c82119def8954d0111ac3&ts=497579&p=fs&cid=1&sig=be741706c1fec57079d4dfa233c2125fdfaa7602afd4a3124c0cad4e7bd8da71&v=0" alt="Project Screenshot" width="">](https://github.com/khushiyadav222/train-data)
+
 
 ## 📊 World Development Indicators – CO₂ Emissions Analysis
 
