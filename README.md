@@ -5,7 +5,8 @@
 ## 📊 Data Visualization
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000013e48211b7b9f42590bec078&ts=497579&p=fs&cid=1&sig=f5bedcc2eaee209d3f0f357e2efa8c797ce987c9680e82e8936bfd05274347d4&v=0" alt="CO₂ Emissions Analysis" width="800">
+<img width="1877" height="838" alt="image" src="https://github.com/user-attachments/assets/432cb35b-61b8-426c-9eb1-1909245b7f70" />
+
 </p>
 
 ---
