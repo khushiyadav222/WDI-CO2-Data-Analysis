@@ -1,6 +1,6 @@
 # 🌍 WDI CO₂ Data Analysis
 
-<imge scr="https://chatgpt.com/backend-api/estuary/content?id=file_00000000208c82119def8954d0111ac3&ts=497579&p=fs&cid=1&sig=be741706c1fec57079d4dfa233c2125fdfaa7602afd4a3124c0cad4e7bd8da71&v=0">
+<img scr="https://chatgpt.com/backend-api/estuary/content?id=file_00000000208c82119def8954d0111ac3&ts=497579&p=fs&cid=1&sig=be741706c1fec57079d4dfa233c2125fdfaa7602afd4a3124c0cad4e7bd8da71&v=0">
 
 ## 📊 World Development Indicators – CO₂ Emissions Analysis
 
